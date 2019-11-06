@@ -8,6 +8,6 @@ cd clij-executable-example/
 ./run.sh
 ```
 
-For detailed documentation on clij, please visit
+[Back to CLIJ documentation](https://clij.github.io/)
 
-https://clij.github.io/clij-docs
+[Imprint](https://clij.github.io/imprint)
